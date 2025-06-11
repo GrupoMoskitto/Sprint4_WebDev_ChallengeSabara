@@ -1,7 +1,7 @@
 import React from "react";
 import { HomeContainer, CounterContainer } from "../styles/HomeStyled";
-// import carregarScript from "../components/CalculadoraMedia";
 import CalculadoraMedia from "../components/CalculadoraMedia";
+import ChamadaAtual from "../components/ChamadaAtual";
 
 const Home = () => {
   return (
@@ -11,11 +11,11 @@ const Home = () => {
         <CounterContainer>
           <div id="main_counterContainer">
             <p>A estimativa de espera é de:</p>
-            {/* <p id="valorEstimativa">{contadorNull}</p> */}
             <CalculadoraMedia />
             <p>Minutos</p>
           </div>
         </CounterContainer>
+        <ChamadaAtual/>
       </div>
     </HomeContainer>
   );

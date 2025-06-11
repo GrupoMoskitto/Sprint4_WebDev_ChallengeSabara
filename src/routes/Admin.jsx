@@ -5,7 +5,7 @@ const Admin = () => {
   return (
     <AdminContainer>
       <div>
-        <h1 style={{fontSize: '30pt', fontStyle: 'oblique', color: 'green'}}>Painel de Administração planejado para o próximo sprint!</h1>
+        <h1 style={{fontSize: '30pt', fontStyle: 'oblique', color: 'green'}}>Disponível em breve!</h1>
         <h1>Painel de Administração</h1>
         <button>Resetar para Valores Padrão</button>
         <button>Adicionar o Último Atendimento</button>
