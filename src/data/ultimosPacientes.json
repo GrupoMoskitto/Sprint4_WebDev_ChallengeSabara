@@ -1,0 +1,44 @@
+{
+    "UltimosPacientes": [
+      {
+        "lastN": 1,
+        "lenUltimaSessao": 22
+      },
+      {
+        "lastN": 2,
+        "lenUltimaSessao": 18
+      },
+      {
+        "lastN": 3,
+        "lenUltimaSessao": 32
+      },
+      {
+        "lastN": 4,
+        "lenUltimaSessao": 44
+      },
+      {
+        "lastN": 5,
+        "lenUltimaSessao": 38
+      },
+      {
+        "lastN": 6,
+        "lenUltimaSessao": 57
+      },
+      {
+        "lastN": 7,
+        "lenUltimaSessao": 38
+      },
+      {
+        "lastN": 8,
+        "lenUltimaSessao": 34
+      },
+      {
+        "lastN": 9,
+        "lenUltimaSessao": 87
+      },
+      {
+        "lastN": 10,
+        "lenUltimaSessao": 20
+      }
+    ]
+  }  
