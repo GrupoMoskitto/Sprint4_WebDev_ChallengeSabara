@@ -1,20 +1,13 @@
-import React from 'react'
-import { FooterContainer, FooterContent } from '../styles/FooterStyled'
-// import logoCollabSabaraMoskitto from '../assets/collabLogo.png'
+import React from 'react';
 
 const Footer = () => {
   return (
-    <FooterContainer>
-      <FooterContent>
-      <div>
-        {/* <img src={logoCollabSabaraMoskitto} alt="Logo" /> */}
-        <p>&copy; Grupo Moskitto - 2025 </p>
+    <footer className="bg-success text-dark py-4 px-2 fixed-bottom w-100">
+      <div className="container d-flex justify-content-center">
+        <p className="mb-0">&copy; Grupo Moskitto - 2025</p>
       </div>
+    </footer>
+  );
+};
 
-    </FooterContent>
-    </FooterContainer>
-    
-  )
-}
-
-export default Footer
+export default Footer;
